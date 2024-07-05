@@ -20,4 +20,4 @@ Please fork this repository and then issue Pull Requests for review.
 
 ### Copyright
 
-2014 Git.Training. All rights reserved. PLOP!
+2024 Git.Training. All rights reserved.
