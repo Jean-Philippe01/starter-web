@@ -3,7 +3,7 @@
 
 # TEAM
 
-    Jason Taylor	jason@git.training	@awesomejt
+    Bobby Brown	bbrown@gmail.com	@awesomeBob
 
 # THANKS
 
