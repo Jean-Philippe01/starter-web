@@ -7,9 +7,8 @@
 
 # THANKS
 
-    All my students!
-	Please leave a review if you like this course!
-
+    ...to all my students!
+	
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
